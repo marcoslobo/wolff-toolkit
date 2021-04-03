@@ -2,8 +2,7 @@
   "name": "wolff-toolkit",
   "version": "1.0.0",
   "description": "wolff frontend packages",
-  "private": true,
-  "workspaces": [
+    "workspaces": [
     "packages/*"
   ],
   "repository": {
